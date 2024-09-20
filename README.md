@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amarmethre
-- 👀 I’m interested in gaining knowledge about comuter skills 
+- 👀 I’m interested in gaining knowledge about computer skills and Technology 
 - 🌱 I’m currently learning Full stack development and Design 
 - 📫 How to reach me reach me @ amarmethre96@gmail.com
 - ⚡ fact: If you're good at something never do it for free 
