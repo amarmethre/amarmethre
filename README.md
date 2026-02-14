@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20I'm%20Mourya&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Amar%20Methre&reversal=false&textBg=false" />
 
 <!-- Typing Animation -->
 <p align="center">
